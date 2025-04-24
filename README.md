@@ -11,7 +11,7 @@
 | Lab 5  | [Music Generation](Lab5_Musicgeneration_rnn.ipynb) |
 | Lab 6  | [Batch Normalization of a Simple Neural Network](Lab_6.ipynb) |
 | Lab 7  | [Image Classification using CIFAR-10](Lab_7.ipynb) |
-| Lab 8  | *Pending* |
+| Lab 8  | [Edge Detection](Lab_8.ipynb) |
 | Lab 9.1 | [Fill the Missing Alphabets using RNN and Bidirectional RNN](Lab_9_1.ipynb) |
 | Lab 9.2 | [Predict the Next Word in the Sequence](lab_9_2.ipynb) |
 | Lab 9.3 | [Sequence Generator for Indian Classical Music Ragas](lab_9_3.ipynb) |
