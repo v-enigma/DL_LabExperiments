@@ -1,5 +1,5 @@
 
-# DL_Lab Experiments
+# DL Lab Experiments
 
 | Lab No | Experiment Name |
 |--------|-----------------|
